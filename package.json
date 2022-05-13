@@ -1,0 +1,19 @@
+{
+  "name": "dth-cli",
+  "version": "1.0.0",
+  "description": "A CLI to manage a DTH Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "Foram Sojitra",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "conf": "^9.0.2"
+  }
+}
